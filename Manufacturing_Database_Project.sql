@@ -1,10 +1,3 @@
-create database project3class 
-use project3class
-
-
--- CREATING TABLES
--- SUPPLIER   [SUPPLIERID , SUPPLIERCODE, SUPPLIER NAME]
-
 
 
 -- SUPPLIERS
